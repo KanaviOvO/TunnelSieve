@@ -1,2 +1,3 @@
-# DNS-Tunnel-Detection
-This is a tool which is aiming to achieve DNS-Unknown-Tunnel-Detection.And it can classify the type of tunnel-tools.
+# DNS-Tunnel-Sieve
+This is a tool which is aiming to achieve DNS-Unknown-Tunnel-Detection.
+It can detect DNS tunnels, and classify the type of tunnel-tools.
